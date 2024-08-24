@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sahilmir18
-- 👀 I’m interested in data science and technology 
+- 👀 I’m interested in data science, AI , cybersecurity and technology 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on new methods of invention in Computer science 
 
