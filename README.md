@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Sahilmir18
-- 👀 I’m interested in AI , cybersecurity and technology 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on new methods of invention in Computer science 
+- 👋 Hi, I’m @Sahilmir18 I’m looking to collaborate on new methods of invention in Computer science Cyberseurity focused.
+- I am also a malware analyst and researcher.
 
 
 <!---
